@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/Ramzyhane/storeapi/issues"
   },
-  "homepage": "https://github.com/Ramzyhane/storeapi#readme"
+  "homepage": "https://github.com/Ramzyhane/storeapi#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.26.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
